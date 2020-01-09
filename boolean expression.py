@@ -43,6 +43,13 @@ x is less than y
 
 
 
-int(input("Examitation Result:"))
+x=int(input("num")
+if num<30:
+	print(C)
+elif num<50:
+	print(B)
+else:
+	print(A)
+
 
 	
