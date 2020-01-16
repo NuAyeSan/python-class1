@@ -78,6 +78,3 @@ knights = {'gallahad': 'the pure', 'robin': 'the brave', 'Yangon': 'Myanmar'}
 for k, v, z in knights.items():
 	print(k, v, z)
 
-knights = {'gallahad': 'the pure', 'robin': 'the brave'}
-for x, y in knights.items():
-	print(x, y)
