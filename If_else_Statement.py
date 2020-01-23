@@ -208,15 +208,25 @@ if x > y:
 
 x = int(input("Examination Results:"))
 
-if x > 100 and x < 100 and x >= 90:
-	print("Grade A")
-elif x > 89 and x < 89 and x >= 70:
-	print("Grade B")
-elif x > 40 and x < 40 and z >= 40:
-	print("Grade C")
-elif 
+100 - 90 (A)
+90 - 70 (B)
+70 - 60 (C)
+60 - 40 (D)
+40 - 10 (Fail)
 
-
+x = int(input("Examination Results:"))
+Examination Results:76
+if x >= 90:
+	print("grade A") 
+elif x >= 80:
+	print("grade B")
+elif x  >= 70:
+	print("grade C")
+elif x >= 60:
+	print("grade D")
+else:
+	print("fail")
+ 
 
 
 
